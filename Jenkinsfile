@@ -10,7 +10,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Building Food Ordering System'
+                echo 'Building Food Ordering System - Version 2'
             }
         }
 
